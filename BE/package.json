@@ -1,0 +1,31 @@
+{
+  "name": "apartments_jure_be",
+  "version": "1.0.0",
+  "description": "BE for Apartments web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://leonard_blazevic@bitbucket.org/leonard_blazevic/apartmentsjure.git"
+  },
+  "author": "Andela&Borna&Leonard",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/leonard_blazevic/apartmentsjure#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {
+    "@types/debug": "0.0.30",
+    "@types/express": "^4.0.37",
+    "@types/node": "^8.0.28",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-tslint": "^8.1.2",
+    "gulp-typescript": "^3.2.2",
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.2"
+  }
+}

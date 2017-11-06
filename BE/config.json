@@ -1,0 +1,8 @@
+{
+    "dbConfig": {
+        "database": "apartmentsjureDB",
+        "host": "localhost",
+        "password": "apartmentsJure1234",
+        "user": "root"
+    }
+}
